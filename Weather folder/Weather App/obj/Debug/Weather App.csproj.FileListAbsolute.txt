@@ -1,0 +1,13 @@
+C:\Users\Stace\OneDrive\Desktop\Weather folder\Weather App\bin\Debug\Weather App.exe.config
+C:\Users\Stace\OneDrive\Desktop\Weather folder\Weather App\bin\Debug\Weather App.exe
+C:\Users\Stace\OneDrive\Desktop\Weather folder\Weather App\bin\Debug\Weather App.pdb
+C:\Users\Stace\OneDrive\Desktop\Weather folder\Weather App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Stace\OneDrive\Desktop\Weather folder\Weather App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Stace\OneDrive\Desktop\Weather folder\Weather App\obj\Debug\Weather App.csproj.AssemblyReference.cache
+C:\Users\Stace\OneDrive\Desktop\Weather folder\Weather App\obj\Debug\Weather_App.Form1.resources
+C:\Users\Stace\OneDrive\Desktop\Weather folder\Weather App\obj\Debug\Weather_App.Properties.Resources.resources
+C:\Users\Stace\OneDrive\Desktop\Weather folder\Weather App\obj\Debug\Weather App.csproj.GenerateResource.cache
+C:\Users\Stace\OneDrive\Desktop\Weather folder\Weather App\obj\Debug\Weather App.csproj.CoreCompileInputs.cache
+C:\Users\Stace\OneDrive\Desktop\Weather folder\Weather App\obj\Debug\Weather .E39BF7C3.Up2Date
+C:\Users\Stace\OneDrive\Desktop\Weather folder\Weather App\obj\Debug\Weather App.exe
+C:\Users\Stace\OneDrive\Desktop\Weather folder\Weather App\obj\Debug\Weather App.pdb
