@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+/*This keeps track of all the infomation that was taken from the server to give to the form*/
 namespace Weather_App
 {
     internal class WeatherInfo

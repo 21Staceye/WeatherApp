@@ -67,6 +67,7 @@
             this.NTBCity.Name = "NTBCity";
             this.NTBCity.Size = new System.Drawing.Size(194, 36);
             this.NTBCity.TabIndex = 1;
+            this.NTBCity.TextChanged += new System.EventHandler(this.NTBCity_TextChanged);
             // 
             // btnSearch
             // 

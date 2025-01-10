@@ -10,10 +10,12 @@ using System.Windows.Forms;
 using Newtonsoft.Json;
 using System.Net;
 using static System.Net.WebRequestMethods;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 
 namespace Weather_App
 {
+/*Creates a window form*/
     public partial class Form1 : Form
     {
         public Form1()
@@ -40,7 +42,7 @@ namespace Weather_App
         {
 
         }
-
+        /*This is for the Search button which goes and grabs infomation from the API that is on a certain server*/
         private void btnSearch_Click(object sender, EventArgs e)
         {
             getWeather();
@@ -67,6 +69,11 @@ namespace Weather_App
             DateTime day = new DateTime(1970,1,1,0,0,0,0,System.DateTimeKind.Utc).ToLocalTime();
             day = day.AddSeconds(sec).ToLocalTime();
             return day;
+        }
+
+        private void NTBCity_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Stace\\OneDrive\\Desktop\\Weather folder\\Weather App\\",
+  "WorkspaceRootPath": "C:\\Users\\Stace\\OneDrive\\Desktop\\WeatherApp\\Weather folder\\Weather App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC01983B-5422-49C8-ABBC-1A5C628B4DFD}|Weather App.csproj|c:\\users\\stace\\onedrive\\desktop\\weather folder\\weather app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC01983B-5422-49C8-ABBC-1A5C628B4DFD}|Weather App.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC01983B-5422-49C8-ABBC-1A5C628B4DFD}|Weather App.csproj|c:\\users\\stace\\onedrive\\desktop\\weather folder\\weather app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CC01983B-5422-49C8-ABBC-1A5C628B4DFD}|Weather App.csproj|C:\\Users\\Stace\\OneDrive\\Desktop\\WeatherApp\\Weather folder\\Weather App\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CC01983B-5422-49C8-ABBC-1A5C628B4DFD}|Weather App.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC01983B-5422-49C8-ABBC-1A5C628B4DFD}|Weather App.csproj|C:\\Users\\Stace\\OneDrive\\Desktop\\Weather folder\\Weather App\\weatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC01983B-5422-49C8-ABBC-1A5C628B4DFD}|Weather App.csproj|c:\\users\\stace\\onedrive\\desktop\\weatherapp\\weather folder\\weather app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC01983B-5422-49C8-ABBC-1A5C628B4DFD}|Weather App.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC01983B-5422-49C8-ABBC-1A5C628B4DFD}|Weather App.csproj|C:\\Users\\Stace\\OneDrive\\Desktop\\WeatherApp\\Weather folder\\Weather App\\weatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC01983B-5422-49C8-ABBC-1A5C628B4DFD}|Weather App.csproj|solutionrelative:weatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 266,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "WeatherInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Stace\\OneDrive\\Desktop\\Weather folder\\Weather App\\WeatherInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Stace\\OneDrive\\Desktop\\WeatherApp\\Weather folder\\Weather App\\WeatherInfo.cs",
               "RelativeDocumentMoniker": "WeatherInfo.cs",
-              "ToolTip": "C:\\Users\\Stace\\OneDrive\\Desktop\\Weather folder\\Weather App\\WeatherInfo.cs",
+              "ToolTip": "C:\\Users\\Stace\\OneDrive\\Desktop\\WeatherApp\\Weather folder\\Weather App\\WeatherInfo.cs",
               "RelativeToolTip": "WeatherInfo.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAIwCMAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-31T18:54:51.835Z",
               "IsPinned": true,
@@ -52,24 +52,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Stace\\OneDrive\\Desktop\\Weather folder\\Weather App\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Stace\\OneDrive\\Desktop\\WeatherApp\\Weather folder\\Weather App\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Stace\\OneDrive\\Desktop\\Weather folder\\Weather App\\Form1.cs",
+              "ToolTip": "C:\\Users\\Stace\\OneDrive\\Desktop\\WeatherApp\\Weather folder\\Weather App\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T17:03:34.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Stace\\OneDrive\\Desktop\\Weather folder\\Weather App\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Stace\\OneDrive\\Desktop\\WeatherApp\\Weather folder\\Weather App\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Stace\\OneDrive\\Desktop\\Weather folder\\Weather App\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Stace\\OneDrive\\Desktop\\WeatherApp\\Weather folder\\Weather App\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-31T18:53:10.136Z",
